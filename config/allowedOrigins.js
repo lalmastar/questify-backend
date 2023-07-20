@@ -1,5 +1,5 @@
 const allowedOrigins=[
-    'https://superb-swan-aa0c08.netlify.app',
+    'https://papaya-hotteok-21c510.netlify.app',
     'http://localhost:3000'
 ];
 
